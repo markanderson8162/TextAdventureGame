@@ -1,0 +1,13 @@
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.exe
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.deps.json
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csprojAssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\AdventureGame\AdventureGame\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.genruntimeconfig.cache
